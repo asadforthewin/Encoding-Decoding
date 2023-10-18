@@ -4,4 +4,4 @@
 <strong>For Decoding:</strong>
 <br>If the word contains less than 3 characters, the Program will reverse it else: it will remove 3 random characters from start and end. Finally, it will remove the last letter and append it to the beginning. </br>
 
-asad is here
+
